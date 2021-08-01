@@ -1,0 +1,19 @@
+{
+  "codewars": {
+    "email": "",
+    "password": "",
+    "api_key": "crEyfPaumSe8sBrLVAmn"
+  },
+  "download_folder": "/home/oussama/Documents/Solutions",
+  "file_extensions": {
+    "java": ".java",
+    "python": ".py",
+    "javascript": ".js",
+    "c": ".c",
+    "c++": ".cpp",
+    "c#": ".cs",
+    "php": ".php",
+    "ruby": ".rb"
+  },
+  "reloads_in_browser": 100
+}
